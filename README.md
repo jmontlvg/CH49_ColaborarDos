@@ -1,2 +1,2 @@
 # CH49_ColaborarDos
-Segundo ejercicio para colaborar - Equipo 1
+Modificación: Este es el segundo ejercicio de práctica de colaboración del equipo 1
