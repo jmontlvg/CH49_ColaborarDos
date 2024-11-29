@@ -1,0 +1,19 @@
+h1{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+h2{
+    background-color: green;
+    color: beige;
+}
+div{
+    background-color: brown;
+    border: 2px gray solid;
+    text-align: center;
+}
+div.seccion_1{
+    background-color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
